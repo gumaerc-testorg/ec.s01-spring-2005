@@ -2,8 +2,13 @@
 content_type: resource
 description: This is a resource file that contains information regarding developing
   an evaluation plan.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/42f2681821606f25164da775e1469228_MITEC_S01S05_l11_open.pdf
+file: /media/courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/42f2681821606f25164da775e1469228_MITEC_S01S05_l11_open.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Developing an Evaluation Plan for MIT OpenCourseWare  April 9, 2003
 uid: 42f26818-2160-6f25-164d-a775e1469228

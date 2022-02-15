@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding MIT TA form.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/a529ee43096f37a57f206997a8c4a90e_MITEC_S01S05_mit_ta_form.pdf
+file: /media/courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/a529ee43096f37a57f206997a8c4a90e_MITEC_S01S05_mit_ta_form.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Related Resources
+parent_type: CourseSection
 resourcetype: Document
 title: MIT TA Form
 uid: a529ee43-096f-37a5-7f20-6997a8c4a90e
