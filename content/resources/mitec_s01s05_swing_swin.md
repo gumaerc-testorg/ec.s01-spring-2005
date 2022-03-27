@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 3d205c72-31f8-9db5-2b70-692eab543e86
 resourcetype: Document
 title: "Lab 9: Swing \u2013 swing\u2026 (sing along)"
 uid: 332e988e-4644-cb80-07a2-8cc79cd65971

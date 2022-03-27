@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0dd4eaeb-d2f8-360d-612d-a17f93c97131
 resourcetype: Document
 title: Operators
 uid: f4f85aba-6b30-efc2-02a7-042c2d64574e

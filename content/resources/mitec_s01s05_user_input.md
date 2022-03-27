@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 3d205c72-31f8-9db5-2b70-692eab543e86
 resourcetype: Document
 title: Brief Into to User Input/Output for Challenge Problems
 uid: 6eec6f6b-533d-a1a3-3b53-4a7c851e992c

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0dd4eaeb-d2f8-360d-612d-a17f93c97131
 resourcetype: Document
 title: 'Lecture 12: Inheritance'
 uid: b75d1a6d-1d0c-0dfa-ea31-6b0a4b14cd11

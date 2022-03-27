@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0dd4eaeb-d2f8-360d-612d-a17f93c97131
 resourcetype: Document
 title: 'Lecture 11: Packages and Scope'
 uid: 05fc0da5-12a7-a1ca-546d-6856b6dc1872

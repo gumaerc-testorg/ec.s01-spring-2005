@@ -102,7 +102,7 @@ Lab 2: Control Structures ([PDF]({{< baseurl >}}/resources/mitec_s01s05_control_
 
 Lab 1: Variables and Operators Solutions ([PDF]({{< baseurl >}}/resources/mitec_s01s05_sb01solb01))
 
-Lab 2: Using Control Structures ([JAVA](./resolveuid/9ebc6e4bd5d936fa60d05596b878f52d))
+Lab 2: Using Control Structures ([JAVA]({{< baseurl >}}/resources/usingcontrolstructures))
 
 
 {{< tdclose >}}
@@ -129,7 +129,7 @@ Lab 3: Gradebook Part I ([PDF]({{< baseurl >}}/resources/mitec_s01s05_gradebook)
 {{< tdopen >}}
 
 
-Lab 3: GradeBook ([JAVA](./resolveuid/6e787c4ab048258ef035b8eeb2a0014c))
+Lab 3: GradeBook ([JAVA]({{< baseurl >}}/resources/gradebook))
 
 
 {{< tdclose >}}
@@ -156,7 +156,7 @@ Lab 4: Gradebook Part II ([PDF]({{< baseurl >}}/resources/mitec_s01s05_gradebook
 {{< tdopen >}}
 
 
-Lab 4: GradeBook ([JAVA](./resolveuid/6e787c4ab048258ef035b8eeb2a0014c))
+Lab 4: GradeBook ([JAVA]({{< baseurl >}}/resources/gradebook))
 
 
 {{< tdclose >}}
@@ -190,7 +190,7 @@ Student.java ([JAVA](./resolveuid/74ae208222c036c9a486a9e760d8878f))
 {{< tdopen >}}
 
 
-GBProgram.java ([JAVA](./resolveuid/64e83dade316ecb13548b9dc7a8879cf))
+GBProgram.java ([JAVA]({{< baseurl >}}/resources/gbprogramb05))
 
 
 {{< tdclose >}}
@@ -214,11 +214,11 @@ Lab 6: Gradebook OOP Part II ([PDF]({{< baseurl >}}/resources/mitec_s01s05_grade
 {{< tdopen >}}
 
 
-Course.java ([JAVA](./resolveuid/efa1d867e81e5f801e7c942e106794f9))
+Course.java ([JAVA]({{< baseurl >}}/resources/course))
 
 Student.java ([JAVA](./resolveuid/74ae208222c036c9a486a9e760d8878f))
 
-GBProgram.java ([JAVA](./resolveuid/3843a847e58ba4fbcb660fe52d225f0b))
+GBProgram.java ([JAVA]({{< baseurl >}}/resources/gbprogram))
 
 
 {{< tdclose >}}
@@ -245,20 +245,20 @@ Lab 7: Fixing Modifier Bugs ([PDF]({{< baseurl >}}/resources/mitec_s01s05_bug_ar
 {{< tdopen >}}
 
 
-Tester.java ([JAVA](./resolveuid/490228bf5e5c3c1255d1fe06895a7001))
+Tester.java ([JAVA]({{< baseurl >}}/resources/tester))
 
-ArrayList.java ([JAVA](./resolveuid/dedc2dedcb9f4d183f6819105997c453))
+ArrayList.java ([JAVA]({{< baseurl >}}/resources/arraylistb07))
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Lab7.java ([JAVA](./resolveuid/41fd0362dadc3ef4fa3bae711d028c30))
+Lab7.java ([JAVA]({{< baseurl >}}/resources/lab7b07))
 
-ArrayList.java ([JAVA](./resolveuid/dedc2dedcb9f4d183f6819105997c453))
+ArrayList.java ([JAVA]({{< baseurl >}}/resources/arraylistb07))
 
-Tester.java ([JAVA](./resolveuid/490228bf5e5c3c1255d1fe06895a7001))
+Tester.java ([JAVA]({{< baseurl >}}/resources/tester))
 
 
 {{< tdclose >}}
@@ -282,11 +282,11 @@ Lab 8: Inheritance and Interfaces ([PDF]({{< baseurl >}}/resources/mitec_s01s05_
 {{< tdopen >}}
 
 
-AttachmentStudent.java ([JAVA](./resolveuid/0c3d24fea6f1646aeae5a00dea590981))
+AttachmentStudent.java ([JAVA]({{< baseurl >}}/resources/attachmentstudent))
 
-Employee.java ([JAVA](./resolveuid/3fcecc2a12e84681a7776048ec7313d7))
+Employee.java ([JAVA]({{< baseurl >}}/resources/employee))
 
-Lab8Test.java ([JAVA](./resolveuid/355f75102aeef7707ed1e6d8da1f07d8))
+Lab8Test.java ([JAVA]({{< baseurl >}}/resources/lab8test))
 
 Student.java ([JAVA](./resolveuid/74ae208222c036c9a486a9e760d8878f))
 
@@ -315,13 +315,13 @@ Lab 9: I/O and Exceptions Lab ([PDF]({{< baseurl >}}/resources/mitec_s01s05_lab_
 {{< tdopen >}}
 
 
-Lab 9: Employee ([JAVA](./resolveuid/3fcecc2a12e84681a7776048ec7313d7))
+Lab 9: Employee ([JAVA]({{< baseurl >}}/resources/employee))
 
-Lab 9: Employee Already Added ([JAVA](./resolveuid/fc7319a6f60bc13028993ff633cda03c))
+Lab 9: Employee Already Added ([JAVA]({{< baseurl >}}/resources/employeealreadyadded))
 
-Lab 9: File Utility ([JAVA](./resolveuid/cec9fcc451cc8c8547a687c533f92f0a))
+Lab 9: File Utility ([JAVA]({{< baseurl >}}/resources/fileutility))
 
-Lab 9: Payroll ([JAVA](./resolveuid/28dca9e5f6bf2a3ebbf51f51af9edac6))
+Lab 9: Payroll ([JAVA]({{< baseurl >}}/resources/payroll))
 
 
 {{< tdclose >}}
@@ -348,7 +348,7 @@ Lab 10: Swing Lab ([PDF]({{< baseurl >}}/resources/mitec_s01s05_swing_swin))
 {{< tdopen >}}
 
 
-Lab 10: Employee Listener ([JAVA](./resolveuid/0b7eaa9e9cc165b93e314c57b55bd0af))
+Lab 10: Employee Listener ([JAVA]({{< baseurl >}}/resources/employeelistener))
 
 Lab 10: Swing Employees ([JAVA]({{< baseurl >}}/resources/swingemployees))
 
@@ -375,16 +375,16 @@ Internationalization seminar ([PDF]({{< baseurl >}}/resources/mitec_s01s05_i18n_
 
 I18N.java ([JAVA]({{< baseurl >}}/resources/i18n))
 
-UnicodeDemoSol.java ([JAVA](./resolveuid/50ccd8794c13569838fef3e17c132563))
+UnicodeDemoSol.java ([JAVA]({{< baseurl >}}/resources/unicodedemoi18n))
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-NotI18N.java ([JAVA](./resolveuid/395f040502a2f7164b2a2eb24447c5e0))
+NotI18N.java ([JAVA]({{< baseurl >}}/resources/noti18ni18n))
 
-UnicodeDemo.java ([JAVA](./resolveuid/50ccd8794c13569838fef3e17c132563))
+UnicodeDemo.java ([JAVA]({{< baseurl >}}/resources/unicodedemoi18n))
 
 
 {{< tdclose >}}

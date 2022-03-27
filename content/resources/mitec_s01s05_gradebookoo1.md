@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 3d205c72-31f8-9db5-2b70-692eab543e86
 resourcetype: Document
 title: 'Java Lab 2: Using Control Structures'
 uid: 43e77dfc-ca7b-0ac7-85a0-a94cd8e838ea

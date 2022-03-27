@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0dd4eaeb-d2f8-360d-612d-a17f93c97131
 resourcetype: Document
 title: 'Seminar 1: Bytecodes'
 uid: 7aa81115-5d4e-4d6c-9bd9-f656d39ff5d7

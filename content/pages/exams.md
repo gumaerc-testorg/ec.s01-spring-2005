@@ -86,9 +86,9 @@ In-class Quiz ([PDF]({{< baseurl >}}/resources/mitec_s01s05_quiz_1))
 Live Coding Exam 1 ([PDF]({{< baseurl >}}/resources/mitec_s01s05_exam_1))
 {{< tdclose >}}
 {{< tdopen >}}
-ExamTester.java ([JAVA](./resolveuid/a62cb4da15b36a860815c3c984cbee31))  
+ExamTester.java ([JAVA]({{< baseurl >}}/resources/examtesterexam1))  
   
-MusicMatatu.java ([JAVA](./resolveuid/68ce963d97ef860a3b929b6486a48737))
+MusicMatatu.java ([JAVA]({{< baseurl >}}/resources/musicmatatuexam1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +97,7 @@ MusicMatatu.java ([JAVA](./resolveuid/68ce963d97ef860a3b929b6486a48737))
 Live Coding Exam 2 ([PDF]({{< baseurl >}}/resources/mitec_s01s05_exam_2))
 {{< tdclose >}}
 {{< tdopen >}}
-PlayerRoster ([TXT](./resolveuid/79a07e89ccf5780182c47ff01951fd87))
+PlayerRoster ([TXT]({{< baseurl >}}/resources/playerrosterexam2))
 {{< tdclose >}}
 
 {{< trclose >}}

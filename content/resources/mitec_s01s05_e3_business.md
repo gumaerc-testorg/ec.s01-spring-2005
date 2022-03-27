@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0dd4eaeb-d2f8-360d-612d-a17f93c97131
 resourcetype: Document
 title: 'Entrepreneurship Seminar 3: Writing Business Plans '
 uid: eb36c9d0-1af1-eba9-f877-c17cd4ec28d8

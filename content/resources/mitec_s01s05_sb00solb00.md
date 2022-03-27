@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 3d205c72-31f8-9db5-2b70-692eab543e86
 resourcetype: Document
 title: 'Final Project Lab 1: Starting Your Web Application'
 uid: 08916cc8-f1c5-3331-e177-1e8c6b38d115

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 3d205c72-31f8-9db5-2b70-692eab543e86
 resourcetype: Document
 title: 'Lab 6: GradeBook Object Oriented Programming and ArrayLists'
 uid: eda31c05-5ad9-38c1-332c-e55c3a1c2c5a

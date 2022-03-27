@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0dd4eaeb-d2f8-360d-612d-a17f93c97131
 resourcetype: Document
 title: 'Entrepreneurship Seminar 1: Producers and Consumers'
 uid: 7552b906-5a03-ff58-ef63-8d808b69fa7e

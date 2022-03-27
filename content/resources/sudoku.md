@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 90597971-7232-6fbb-a506-09fb4b637498
 resourcetype: Other
 title: Sudoku.zip
 uid: 9fffdc5f-66bc-53c6-4fba-c2d1b320977c

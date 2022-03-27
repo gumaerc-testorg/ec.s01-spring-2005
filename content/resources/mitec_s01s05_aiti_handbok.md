@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: f3f93511-1f2c-dc1e-2b38-b586588bbfc4
 resourcetype: Document
 title: AITI Handbook
 uid: 4c82fecb-5b10-0783-aca5-1ae562b09df1

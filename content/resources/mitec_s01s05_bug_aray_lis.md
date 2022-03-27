@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 3d205c72-31f8-9db5-2b70-692eab543e86
 resourcetype: Document
 title: 'MIT AITI Lab 7: Modifiers, Scope, and Packages'
 uid: 64176de3-86dc-e069-bfec-7960479df661

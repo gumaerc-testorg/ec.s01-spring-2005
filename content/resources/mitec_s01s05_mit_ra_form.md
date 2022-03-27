@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: f3f93511-1f2c-dc1e-2b38-b586588bbfc4
 resourcetype: Document
 title: MIT RA Form
 uid: 4ccce919-9fbc-98af-ab88-308af809b74e

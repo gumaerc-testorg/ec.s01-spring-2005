@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0dd4eaeb-d2f8-360d-612d-a17f93c97131
 resourcetype: Document
 title: 'Entrepreneurship Seminar 5: Business Innovation'
 uid: d8f7679b-b63a-fdb0-7d58-098712d0103a

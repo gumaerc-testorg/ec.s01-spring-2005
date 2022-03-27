@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 3d205c72-31f8-9db5-2b70-692eab543e86
 resourcetype: Document
 title: Challenge Problems - Set 1 Solutions
 uid: 00040427-3901-3ede-de82-a0f8cf64e623
