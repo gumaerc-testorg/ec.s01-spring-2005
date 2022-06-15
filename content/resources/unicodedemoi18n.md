@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is the solution file for Internationalization seminar.
-file: /media/courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/50ccd8794c13569838fef3e17c132563_UnicodeDemoI18N.java
+file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/50ccd8794c13569838fef3e17c132563_UnicodeDemoI18N.java
 file_type: text/plain
 learning_resource_types:
 - Labs
@@ -13,3 +13,5 @@ resourcetype: Other
 title: UnicodeDemoI18N.java
 uid: 50ccd879-4c13-5698-38fe-f3e17c132563
 ---
+This resource is the solution file for Internationalization seminar.
+

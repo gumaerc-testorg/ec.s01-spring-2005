@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: Lecture notes section contains course notes for both spring and summer
+  2005.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
 title: Lecture Notes
 uid: 0dd4eaeb-d2f8-360d-612d-a17f93c97131
+video_metadata:
+  youtube_id: null
 ---
 
 This course is based on the work of the MIT-African Internet Technology Initiative (MIT-AITI). MIT-AITI is an innovative approach by MIT students to integrate computers and internet technology into the education of students in African schools. MIT-AITI achieves this goal by sending MIT students to three African nations in order to teach both students and teachers through intensive classroom and lab sessions for six weeks.
@@ -42,7 +46,7 @@ VIDEOS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction ([PDF - 1.3 MB]({{< baseurl >}}/resources/mitec_s01s05_l1_introd))
+Introduction ({{% resource_link ff8b1052-f41f-79c0-c0fd-bdb855f242ec "PDF - 1.3 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -54,7 +58,7 @@ Introduction ([PDF - 1.3 MB]({{< baseurl >}}/resources/mitec_s01s05_l1_introd))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Logistics ([PDF]({{< baseurl >}}/resources/mitec_s01s05_lec2_logist)) (Courtesy of Eric Mibuari. Used with permission.)
+Logistics ({{% resource_link 577e2fb3-3bf4-5bca-d8c3-0e92231f8877 "PDF" %}}) (Courtesy of Eric Mibuari. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -68,7 +72,7 @@ Logistics ([PDF]({{< baseurl >}}/resources/mitec_s01s05_lec2_logist)) (Courtesy 
 {{< tdopen >}}
 
 
-MIT Medical Presentation ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l3_mit))
+MIT Medical Presentation ({{% resource_link 3af5ebef-4f66-3940-d0de-1053db0d7c50 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -94,7 +98,7 @@ AITI Networking
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction to IT, Entrepreneurship ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l5_it_entrepr)) (Courtesy of Yaron Binur. Used with permission.)
+Introduction to IT, Entrepreneurship ({{% resource_link 7b9373e4-c203-e97b-419a-88d93d4a771f "PDF" %}}) (Courtesy of Yaron Binur. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -106,7 +110,7 @@ Introduction to IT, Entrepreneurship ([PDF]({{< baseurl >}}/resources/mitec_s01s
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Teaching Tips ([PDF]({{< baseurl >}}/resources/mitec_s01s05_lec6_teach))
+Teaching Tips ({{% resource_link ed2eb2cf-9de0-9311-28b1-234732655501 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -130,7 +134,7 @@ Practice Teaching Sessions
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Cross-Cultural Communication ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l8_cros_cul)) (Courtesy of Prof. Bernd Widdig. Used with permission.)
+Cross-Cultural Communication ({{% resource_link 353336e2-2db8-2357-bcca-a6548da9f539 "PDF" %}}) (Courtesy of Prof. Bernd Widdig. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -166,7 +170,7 @@ Java® Week: Part II
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Fostering OpenCourseWare ([PDF - 1.2 MB]({{< baseurl >}}/resources/mitec_s01s05_l11_open))
+Fostering OpenCourseWare ({{% resource_link 42f26818-2160-6f25-164d-a775e1469228 "PDF - 1.2 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -216,7 +220,7 @@ iLabs Presentation
 {{< tdopen >}}
 PSDS Final Presentation
 
-Conclusion ([PDF]({{< baseurl >}}/resources/mitec_s01s05_lec14_conclu))
+Conclusion ({{% resource_link 702e9439-4401-801f-8074-0a178269ca94 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -254,11 +258,11 @@ SPECIAL TOPICS
 
 Lecture 0: Introduction to AITI and Team
 
-Lecture 1: Introduction to Java® ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l01_introdu))
+Lecture 1: Introduction to Java® ({{% resource_link 33119cfc-4240-49b3-4ce2-1e5a637d24ca "PDF" %}})
 
-Lecture 2: Variables ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l02_var_data))
+Lecture 2: Variables ({{% resource_link 5d39c524-9e58-d006-2251-d72c03c8b89f "PDF" %}})
 
-Lecture 3: Operators ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l03_operators))
+Lecture 3: Operators ({{% resource_link f4f85aba-6b30-efc2-02a7-042c2d64574e "PDF" %}})
 
 
 {{< tdclose >}}
@@ -272,7 +276,7 @@ Lecture 3: Operators ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l03_operators
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Lecture 4: Control Structures ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l04_cont))
+Lecture 4: Control Structures ({{% resource_link c91420bc-5087-0ea3-a424-571b325b0de3 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -284,7 +288,7 @@ Lecture 4: Control Structures ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l04_
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Lecture 5: Arrays ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l05_arrays))
+Lecture 5: Arrays ({{% resource_link c5f0c761-f911-62a2-3926-bfee20de9c55 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -296,10 +300,10 @@ Lecture 5: Arrays ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l05_arrays))
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Lecture 6: Methods ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l06_methods))
+Lecture 6: Methods ({{% resource_link 8cf98f33-a786-362c-896a-9675ad2910c3 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Seminar 1: Bytecodes ([PDF]({{< baseurl >}}/resources/mitec_s01s05_bytecode))
+Seminar 1: Bytecodes ({{% resource_link 7aa81115-5d4e-4d6c-9bd9-f656d39ff5d7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -308,7 +312,7 @@ Seminar 1: Bytecodes ([PDF]({{< baseurl >}}/resources/mitec_s01s05_bytecode))
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Lecture 7: OOP Part I ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l07_classobj1))
+Lecture 7: OOP Part I ({{% resource_link 9526ad9c-3809-8d2d-7f3a-4d98e26d4717 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -323,9 +327,9 @@ Lecture 7: OOP Part I ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l07_classobj
 Quiz Review
 {{< tdclose >}}
 {{< tdopen >}}
-Entrepreneurship Seminar 0: Introduction ([PDF]({{< baseurl >}}/resources/mitec_s01s05_e0_entrepr))
+Entrepreneurship Seminar 0: Introduction ({{% resource_link 80ae5e30-ce14-d41f-c04d-1f213532c0b0 "PDF" %}})
 
-Entrepreneurship Seminar 1: Producers and Consumers ([PDF]({{< baseurl >}}/resources/mitec_s01s05_e1_prod_vs))
+Entrepreneurship Seminar 1: Producers and Consumers ({{% resource_link 7552b906-5a03-ff58-ef63-8d808b69fa7e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -334,7 +338,7 @@ Entrepreneurship Seminar 1: Producers and Consumers ([PDF]({{< baseurl >}}/resou
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Lecture 8: OOP Part II ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l08_classobj2))
+Lecture 8: OOP Part II ({{% resource_link ef167943-3b95-8a5d-6c67-0a816d1b250a "PDF" %}})
 
 Quiz
 {{< tdclose >}}
@@ -348,10 +352,10 @@ Quiz
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Lecture 9: Lists and Iterators ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l09_lists_iterat))
+Lecture 9: Lists and Iterators ({{% resource_link ae385d1d-e9d2-8865-3fb5-883aa9d1025e "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Entrepreneurship Seminar 2: Entrepreneurial Mindset ([PDF]({{< baseurl >}}/resources/mitec_s01s05_e2_entre))
+Entrepreneurship Seminar 2: Entrepreneurial Mindset ({{% resource_link 7aaf25d6-de05-12cb-49ef-5f63e560e9cc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -372,7 +376,7 @@ Work Day
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Lecture 10: Static and Final ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l10_static))
+Lecture 10: Static and Final ({{% resource_link b28aa03b-2c90-af81-8f00-985f4cc76cf5 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -384,10 +388,10 @@ Lecture 10: Static and Final ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l10_s
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Lecture 11: Packages and Scope ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l11_scope))
+Lecture 11: Packages and Scope ({{% resource_link 05fc0da5-12a7-a1ca-546d-6856b6dc1872 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Entrepreneurship Seminar 3: Writing Business Plans ([PDF]({{< baseurl >}}/resources/mitec_s01s05_e3_business))
+Entrepreneurship Seminar 3: Writing Business Plans ({{% resource_link eb36c9d0-1af1-eba9-f877-c17cd4ec28d8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -432,7 +436,7 @@ Work Day (cont.)
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Lecture 12: Inheritance ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l12_inheritan))
+Lecture 12: Inheritance ({{% resource_link b75d1a6d-1d0c-0dfa-ea31-6b0a4b14cd11 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Entrepreneurship Seminar 4: Offshore/Outsourcing
@@ -458,7 +462,7 @@ Lecture 13: Abstract Classes and Interfaces
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Lecture 14: Exceptions ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l14_exception))
+Lecture 14: Exceptions ({{% resource_link 5dffc6ff-5d64-d989-8e93-b8bf0fa6a6ef "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Entrepreneurship Seminar 5: Business Innovation
@@ -470,7 +474,7 @@ Entrepreneurship Seminar 5: Business Innovation
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Lecture 15: IO and Parsing ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l15_io_parsing))
+Lecture 15: IO and Parsing ({{% resource_link 7d07f86a-7e36-ba48-1072-29fe82fe8be1 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -513,7 +517,7 @@ Entrepreneurship Seminar 6: Social Entrepreneurship
 
 Guest Speaker
 
-Seminar 3: Code Methodology ([PDF]({{< baseurl >}}/resources/mitec_s01s05_coding_metho))
+Seminar 3: Code Methodology ({{% resource_link 036c6346-ab30-c57e-de79-0e330f171e43 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is the supporting file for lab 7.
-file: /media/courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/490228bf5e5c3c1255d1fe06895a7001_Tester.java
+file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/490228bf5e5c3c1255d1fe06895a7001_Tester.java
 file_type: text/plain
 learning_resource_types:
 - Labs
@@ -13,3 +13,5 @@ resourcetype: Other
 title: Tester.java
 uid: 490228bf-5e5c-3c12-55d1-fe06895a7001
 ---
+This resource is the supporting file for lab 7.
+

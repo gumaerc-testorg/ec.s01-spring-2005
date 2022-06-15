@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: Projects section includes the sample ideas of creating projects for both
+  spring and summer 2005.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
 title: Projects
 uid: 90597971-7232-6fbb-a506-09fb4b637498
+video_metadata:
+  youtube_id: null
 ---
 
 This course is based on the work of the MIT-African Internet Technology Initiative (MIT-AITI). MIT-AITI is an innovative approach by MIT students to integrate computers and internet technology into the education of students in African schools. MIT-AITI achieves this goal by sending MIT students to three African nations in order to teach both students and teachers through intensive classroom and lab sessions for six weeks.
@@ -86,25 +90,25 @@ Sudoku is a Japanese puzzle game that has recently become quite popular in Engla
 
 Puzzles start out with a number of cells called **givens** that are already filled in and cannot be changed. Here is a sample Sudoku puzzle:
 
-![image4.jpg]({{< resource_file 06368769-be39-578c-c2f2-c685dd367729 >}})
+{{< resource 06368769-be39-578c-c2f2-c685dd367729 >}}
 
 Sample Sudoku puzzle. (Image by MIT OpenCourseWare.)
 
 A filled-in row must have one of each digit. That means that each digit appears only once in the row. For example, the above puzzle's top row could be filled in as:
 
-![image1.jpg]({{< resource_file 7f737bfe-260d-ad40-3f56-3a0be3b2a032 >}})
+{{< resource 7f737bfe-260d-ad40-3f56-3a0be3b2a032 >}}
 
 Sudoku sample puzzle's top row. (Image courtesy of MIT-AITI Kenya 2005 team.)
 
 Similarly, each digit must appear in a filled-in column exactly once. The first column could be filled as is shown below:
 
-![image2.jpg]({{< resource_file d038662e-813a-f3a2-c429-8fdfe7c2c099 >}})
+{{< resource d038662e-813a-f3a2-c429-8fdfe7c2c099 >}}
 
 Sudoku sample puzzle's first column. (Image courtesy of MIT-AITI Kenya 2005 team.)
 
 There are nine 3x3 boxes, or **regions** surrounded by thick lines that must contain each digit exactly once. The top-left region could be filled as:
 
-![image3.jpg]({{< resource_file 53349611-0386-705e-5773-a82e44787a65 >}})
+{{< resource 53349611-0386-705e-5773-a82e44787a65 >}}
 
 Sudoku sample puzzle's top-left region. (Image courtesy of MIT-AITI Kenya 2005 team.)
 
@@ -124,7 +128,7 @@ For more information on Sudoku:
 
 Happy hacking!
 
-Sudoku Supporting Files and Documentation ([ZIP]({{< baseurl >}}/resources/sudoku)) (The ZIP file contains: 7 .java files, 17 .class files, 72 .html files, 1 .css file, and 1 .gif file.)
+Sudoku Supporting Files and Documentation ({{% resource_link 9fffdc5f-66bc-53c6-4fba-c2d1b320977c "ZIP" %}}) (The ZIP file contains: 7 .java files, 17 .class files, 72 .html files, 1 .css file, and 1 .gif file.)
 
 ### MIT-AITI Kenya 2005 Alliance High School: Final Project
 

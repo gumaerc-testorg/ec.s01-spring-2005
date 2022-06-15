@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is the supporting file for lab 5.
-file: /media/courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/64e83dade316ecb13548b9dc7a8879cf_GBProgramB05.java
+file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/64e83dade316ecb13548b9dc7a8879cf_GBProgramB05.java
 file_type: text/plain
 learning_resource_types:
 - Labs
@@ -13,3 +13,5 @@ resourcetype: Other
 title: GBProgramB05.java
 uid: 64e83dad-e316-ecb1-3548-b9dc7a8879cf
 ---
+This resource is the supporting file for lab 5.
+

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is the solution file for Internationalization seminar.
-file: /media/courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/395f040502a2f7164b2a2eb24447c5e0_NotI18NI18N.java
+file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/395f040502a2f7164b2a2eb24447c5e0_NotI18NI18N.java
 file_type: text/plain
 learning_resource_types:
 - Labs
@@ -13,3 +13,5 @@ resourcetype: Other
 title: NotI18NI18N.java
 uid: 395f0405-02a2-f716-4b2a-2eb24447c5e0
 ---
+This resource is the solution file for Internationalization seminar.
+

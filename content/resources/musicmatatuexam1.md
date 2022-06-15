@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for exam 1.
-file: /media/courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/68ce963d97ef860a3b929b6486a48737_MusicMatatuExam1.java
+file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/68ce963d97ef860a3b929b6486a48737_MusicMatatuExam1.java
 file_type: text/plain
 learning_resource_types:
 - Exams
@@ -13,3 +13,5 @@ resourcetype: Other
 title: MusicMatatuExam1.java
 uid: 68ce963d-97ef-860a-3b92-9b6486a48737
 ---
+This resource is a supporting file for exam 1.
+

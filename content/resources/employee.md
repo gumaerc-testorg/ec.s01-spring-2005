@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solution file for Lab 9.
-file: /media/courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/3fcecc2a12e84681a7776048ec7313d7_Employee.java
+file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/3fcecc2a12e84681a7776048ec7313d7_Employee.java
 file_type: text/plain
 learning_resource_types:
 - Labs
@@ -13,3 +13,5 @@ resourcetype: Other
 title: Employee.java
 uid: 3fcecc2a-12e8-4681-a777-6048ec7313d7
 ---
+Solution file for Lab 9.
+

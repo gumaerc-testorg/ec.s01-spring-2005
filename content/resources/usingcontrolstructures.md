@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is the solution file for lab 2.
-file: /media/courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/9ebc6e4bd5d936fa60d05596b878f52d_UsingControlStructures.java
+file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/9ebc6e4bd5d936fa60d05596b878f52d_UsingControlStructures.java
 file_type: text/plain
 learning_resource_types:
 - Labs
@@ -13,3 +13,5 @@ resourcetype: Other
 title: UsingControlStructures.java
 uid: 9ebc6e4b-d5d9-36fa-60d0-5596b878f52d
 ---
+This resource is the solution file for lab 2.
+

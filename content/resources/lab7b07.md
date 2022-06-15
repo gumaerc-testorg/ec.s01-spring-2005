@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is the solution file for lab 7.
-file: /media/courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/41fd0362dadc3ef4fa3bae711d028c30_Lab7B07.java
+file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/41fd0362dadc3ef4fa3bae711d028c30_Lab7B07.java
 file_type: text/plain
 learning_resource_types:
 - Labs
@@ -13,3 +13,5 @@ resourcetype: Other
 title: Lab7B07.java
 uid: 41fd0362-dadc-3ef4-fa3b-ae711d028c30
 ---
+This resource is the solution file for lab 7.
+

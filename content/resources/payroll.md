@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is the solution file for lab 9.
-file: /media/courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/28dca9e5f6bf2a3ebbf51f51af9edac6_Payroll.java
+file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/28dca9e5f6bf2a3ebbf51f51af9edac6_Payroll.java
 file_type: text/plain
 learning_resource_types:
 - Labs
@@ -13,3 +13,5 @@ resourcetype: Other
 title: Payroll.java
 uid: 28dca9e5-f6bf-2a3e-bbf5-1f51af9edac6
 ---
+This resource is the solution file for lab 9.
+

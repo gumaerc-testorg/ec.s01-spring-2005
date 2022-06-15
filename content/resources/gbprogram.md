@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is the solution file for lab 6.
-file: /media/courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/3843a847e58ba4fbcb660fe52d225f0b_GBProgram.java
+file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/3843a847e58ba4fbcb660fe52d225f0b_GBProgram.java
 file_type: text/plain
 learning_resource_types:
 - Labs
@@ -13,3 +13,5 @@ resourcetype: Other
 title: GBProgram.java
 uid: 3843a847-e58b-a4fb-cb66-0fe52d225f0b
 ---
+This resource is the solution file for lab 6.
+

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is the solution file for lab 10.
-file: /media/courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/0b7eaa9e9cc165b93e314c57b55bd0af_EmployeeListener.java
+file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/0b7eaa9e9cc165b93e314c57b55bd0af_EmployeeListener.java
 file_type: text/plain
 learning_resource_types:
 - Labs
@@ -13,3 +13,5 @@ resourcetype: Other
 title: EmployeeListener.java
 uid: 0b7eaa9e-9cc1-65b9-3e31-4c57b55bd0af
 ---
+This resource is the solution file for lab 10.
+
