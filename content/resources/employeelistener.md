@@ -5,6 +5,7 @@ file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring
 file_type: text/plain
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: EmployeeListener.java
 uid: 0b7eaa9e-9cc1-65b9-3e31-4c57b55bd0af
 ---
 This resource is the solution file for lab 10.
-

@@ -5,6 +5,7 @@ file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring
 file_type: text/plain
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Course.java
 uid: efa1d867-e81e-5f80-1e7c-942e106794f9
 ---
 This resource is the solution file for lab 6.
-

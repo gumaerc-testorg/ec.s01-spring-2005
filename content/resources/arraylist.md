@@ -5,6 +5,7 @@ file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring
 file_type: text/plain
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ArrayList.java
 uid: 80164bd0-76ab-9f32-0630-3fa1fc031d4c
 ---
 This resource is the solution file for lab 7.
-

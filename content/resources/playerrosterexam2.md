@@ -5,6 +5,7 @@ file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring
 file_type: text/plain
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: PlayerRosterExam2.txt
 uid: 79a07e89-ccf5-7801-82c4-7ff01951fd87
 ---
 This resource is a supporting file for exam 2.
-

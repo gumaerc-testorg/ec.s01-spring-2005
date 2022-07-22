@@ -11,6 +11,7 @@ image_metadata:
   image-alt: A photograph of three MIT students at the entrance of the University
     of Ghana.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: ec-s01s05-th.jpg
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 MIT students standing at the entrance of the University of Ghana. Image courtesy of Tamara Stern.
-

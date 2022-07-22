@@ -5,6 +5,7 @@ file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring
 file_type: text/plain
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: UnicodeDemoSol.java
 uid: cf0e68ca-b0d2-64d6-2d71-feb86a3f7b42
 ---
 This resource is the solution file for Internationalization seminar.
-

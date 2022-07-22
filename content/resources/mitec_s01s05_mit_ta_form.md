@@ -4,6 +4,7 @@ description: This is a resource file that contains information regarding MIT TA 
 file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/a529ee43096f37a57f206997a8c4a90e_MITEC_S01S05_mit_ta_form.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This is a resource file that contains information regarding MIT TA form.
-

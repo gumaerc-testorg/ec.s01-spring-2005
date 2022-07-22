@@ -6,6 +6,7 @@ file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring
 file_type: application/zip
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 The ZIP file contains: 7 .java files, 17 .class files, 72 .html files, 1 .css file, and 1 .gif file.
-

@@ -5,6 +5,7 @@ file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring
 file_type: text/plain
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: NotI18NI18N.java
 uid: 395f0405-02a2-f716-4b2a-2eb24447c5e0
 ---
 This resource is the solution file for Internationalization seminar.
-

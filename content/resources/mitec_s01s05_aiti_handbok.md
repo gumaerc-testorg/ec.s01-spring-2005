@@ -4,6 +4,7 @@ description: This is a resource file that contains information regarding AITI ha
 file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/4c82fecb5b100783aca51ae562b09df1_MITEC_S01S05_aiti_handbok.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This is a resource file that contains information regarding AITI handbook.
-
