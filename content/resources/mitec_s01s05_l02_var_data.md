@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding variables
   and data types.
 file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/5d39c5249e58d0062251d72c03c8b89f_MITEC_S01S05_l02_var_data.pdf
+file_size: 789237
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

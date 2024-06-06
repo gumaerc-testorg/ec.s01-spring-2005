@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding business
   innovation.
 file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/d8f7679bb63afdb07d58098712d0103a_MITEC_S01S05_e5_busines.pdf
+file_size: 147789
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

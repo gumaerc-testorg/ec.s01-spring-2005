@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding introduction.
 file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/ff8b1052f41f79c0c0fdbdb855f242ec_MITEC_S01S05_l1_introd.pdf
+file_size: 1494424
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

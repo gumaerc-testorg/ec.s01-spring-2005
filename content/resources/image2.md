@@ -3,6 +3,7 @@ content_type: resource
 description: Sudoku sample puzzle's first column. (Image courtesy of MIT-AITI Kenya
   2005 team.)
 file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/d038662e813af3a2c4298fdfe7c2c099_image2.jpg
+file_size: 7624
 file_type: image/jpeg
 image_metadata:
   caption: ''

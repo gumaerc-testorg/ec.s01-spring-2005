@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding challenge
   problems - final jeopardy.
 file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/20ff05b15fbde9b1493d626a70e520a6_MITEC_S01S05_jeopardy.pdf
+file_size: 187090
 file_type: application/pdf
 learning_resource_types:
 - Labs

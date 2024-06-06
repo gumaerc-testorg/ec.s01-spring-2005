@@ -2,6 +2,7 @@
 content_type: resource
 description: Solution file for Lab 9.
 file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/3fcecc2a12e84681a7776048ec7313d7_Employee.java
+file_size: 571
 file_type: text/plain
 learning_resource_types:
 - Labs
