@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource is a supporting file for exam 2.
 file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/79a07e89ccf5780182c47ff01951fd87_PlayerRosterExam2.txt
+file_size: 105
 file_type: text/plain
 learning_resource_types:
 - Exams

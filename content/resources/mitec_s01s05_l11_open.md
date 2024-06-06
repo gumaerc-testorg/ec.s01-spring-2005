@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding developing
   an evaluation plan.
 file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/42f2681821606f25164da775e1469228_MITEC_S01S05_l11_open.pdf
+file_size: 1209755
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
