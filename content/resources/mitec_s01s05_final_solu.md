@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding final exam
   version 1 solutions.
 file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/288799c0dd0dd1988bad7950085fae70_MITEC_S01S05_final_solu.pdf
+file_size: 261340
 file_type: application/pdf
 learning_resource_types:
 - Exams

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource is the solution file for lab 7.
 file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/80164bd076ab9f3206303fa1fc031d4c_ArrayList.java
+file_size: 964
 file_type: text/plain
 learning_resource_types:
 - Labs

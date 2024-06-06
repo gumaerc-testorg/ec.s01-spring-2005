@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding applying
   to graduate school in the US.
 file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/3db9f0242785809663ca89ab9f9ce018_MITEC_S01S05_grad_school.pdf
+file_size: 229339
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
