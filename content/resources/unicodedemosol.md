@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is the solution file for Internationalization seminar.
-file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/cf0e68cab0d264d62d71feb86a3f7b42_UnicodeDemoSol.java
+file: /ol-ocw-studio-app/courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/cf0e68cab0d264d62d71feb86a3f7b42_UnicodeDemoSol.java
 file_size: 475
 file_type: text/plain
 learning_resource_types:

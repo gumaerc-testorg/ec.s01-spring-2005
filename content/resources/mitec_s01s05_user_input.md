@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource file contains information regarding brief into to user
   input/output for challenge problems
-file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/6eec6f6b533da1a33b534a7c851e992c_MITEC_S01S05_user_input.pdf
+file: /ol-ocw-studio-app/courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/6eec6f6b533da1a33b534a7c851e992c_MITEC_S01S05_user_input.pdf
 file_size: 189477
 file_type: application/pdf
 learning_resource_types:

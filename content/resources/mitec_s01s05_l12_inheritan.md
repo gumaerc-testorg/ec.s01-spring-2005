@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This is a resource file that contains information regarding the use
   of inheritance in a programming language. '
-file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/b75d1a6d1d0c0dfaea316b0a4b14cd11_MITEC_S01S05_l12_inheritan.pdf
+file: /ol-ocw-studio-app/courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/b75d1a6d1d0c0dfaea316b0a4b14cd11_MITEC_S01S05_l12_inheritan.pdf
 file_size: 952263
 file_type: application/pdf
 learning_resource_types:
