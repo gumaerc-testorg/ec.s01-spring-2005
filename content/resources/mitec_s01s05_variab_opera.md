@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource file contains information regarding java lab 2.
-file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/87d10e52bc7cb46e36018cf05a4a6cf0_MITEC_S01S05_variab_opera.pdf
+file: /ol-ocw-studio-app/courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/87d10e52bc7cb46e36018cf05a4a6cf0_MITEC_S01S05_variab_opera.pdf
 file_size: 209996
 file_type: application/pdf
 learning_resource_types:

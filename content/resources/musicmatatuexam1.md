@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for exam 1.
-file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/68ce963d97ef860a3b929b6486a48737_MusicMatatuExam1.java
+file: /ol-ocw-studio-app/courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/68ce963d97ef860a3b929b6486a48737_MusicMatatuExam1.java
 file_size: 5034
 file_type: text/plain
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding enterpreneurship
   seminar 2.
-file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/7aaf25d6de0512cb49ef5f63e560e9cc_MITEC_S01S05_e2_entre.pdf
+file: /ol-ocw-studio-app/courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/7aaf25d6de0512cb49ef5f63e560e9cc_MITEC_S01S05_e2_entre.pdf
 file_size: 816778
 file_type: application/pdf
 learning_resource_types:

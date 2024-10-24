@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is the solution file for lab 10.
-file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/0b7eaa9e9cc165b93e314c57b55bd0af_EmployeeListener.java
+file: /ol-ocw-studio-app/courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/0b7eaa9e9cc165b93e314c57b55bd0af_EmployeeListener.java
 file_size: 1182
 file_type: text/plain
 learning_resource_types:
