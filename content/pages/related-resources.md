@@ -1,6 +1,7 @@
 ---
 content_type: page
 description: Related resources section contains list of useful links for the course.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -8,25 +9,22 @@ uid: f3f93511-1f2c-dc1e-2b38-b586588bbfc4
 video_metadata:
   youtube_id: null
 ---
-
 This course is based on the work of the MIT-African Internet Technology Initiative (MIT-AITI). MIT-AITI is an innovative approach by MIT students to integrate computers and internet technology into the education of students in African schools. MIT-AITI achieves this goal by sending MIT students to three African nations in order to teach both students and teachers through intensive classroom and lab sessions for six weeks.
 
 This course Web site has two major components:
 
-1.  Content from the spring 2005 preparatory seminar offered by the MIT-AITI leadership.
-2.  A snapshot of the MIT-AITI summer 2005 program in Kenya.
+1. Content from the spring 2005 preparatory seminar offered by the MIT-AITI leadership.
+2. A snapshot of the MIT-AITI summer 2005 program in Kenya.
 
 Related resources information for both the spring 2005 and summer 2005 sessions are included below.
 
-Spring 2005
------------
+## Spring 2005
 
-AITI Handbook ({{% resource_link 4c82fecb-5b10-0783-aca5-1ae562b09df1 "PDF" %}})
+AITI Handbook ({{% resource_link "4c82fecb-5b10-0783-aca5-1ae562b09df1" "PDF" %}})
 
-Optional Readings ({{% resource_link 651ef4ba-67e8-62cc-b02d-ca862ab70151 "PDF" %}})
+Optional Readings ({{% resource_link "651ef4ba-67e8-62cc-b02d-ca862ab70151" "PDF" %}})
 
-Summer 2005
------------
+## Summer 2005
 
 ### Entrepreneurship
 
@@ -42,7 +40,7 @@ Summer 2005
 
 ### JCreator® Tool
 
-[JCreator®: Java® IDE](http://www.jcreator.com/index.htm) (Registration is required, but the product is free.)
+JCreator®: Java® IDE (Registration is required, but the product is free.)
 
 ### JavaDocs® Tool
 
@@ -62,8 +60,8 @@ JavaServer™ Pages Syntax Card ([PDF](http://java.sun.com/products/jsp/syntax/1
 
 ### Graduate School Information
 
-MIT TA Form ({{% resource_link a529ee43-096f-37a5-7f20-6997a8c4a90e "PDF" %}})
+MIT TA Form ({{% resource_link "a529ee43-096f-37a5-7f20-6997a8c4a90e" "PDF" %}})
 
-MIT RA Form ({{% resource_link 4ccce919-9fbc-98af-ab88-308af809b74e "PDF" %}})
+MIT RA Form ({{% resource_link "4ccce919-9fbc-98af-ab88-308af809b74e" "PDF" %}})
 
-Applying to Graduate School in the US ({{% resource_link 3db9f024-2785-8096-63ca-89ab9f9ce018 "PDF" %}}) (Courtesy of Aisha Walcott. Used with permission.)
+Applying to Graduate School in the US ({{% resource_link "3db9f024-2785-8096-63ca-89ab9f9ce018" "PDF" %}}) (Courtesy of Aisha Walcott. Used with permission.)
