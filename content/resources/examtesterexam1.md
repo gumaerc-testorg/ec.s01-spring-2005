@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for exam 1.
-file: /ol-ocw-studio-app/courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/a62cb4da15b36a860815c3c984cbee31_ExamTesterExam1.java
+file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/a62cb4da15b36a860815c3c984cbee31_ExamTesterExam1.java
 file_size: 3022
 file_type: text/plain
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding AITI handbook.
-file: /ol-ocw-studio-app/courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/4c82fecb5b100783aca51ae562b09df1_MITEC_S01S05_aiti_handbok.pdf
+file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/4c82fecb5b100783aca51ae562b09df1_MITEC_S01S05_aiti_handbok.pdf
 file_size: 335316
 file_type: application/pdf
 learning_resource_types: []
