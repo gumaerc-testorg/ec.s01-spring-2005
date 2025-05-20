@@ -2,6 +2,7 @@
 content_type: page
 description: Syllabus section contains Course description, objectives, Attendance
   Policy, Required Materials, and Grading for both Spring, and Summer 20005.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -9,7 +10,6 @@ uid: 6ca0f2a9-31f9-9885-9057-e673ad63670b
 video_metadata:
   youtube_id: null
 ---
-
 Spring 2005 Course Meeting Times
 --------------------------------
 
