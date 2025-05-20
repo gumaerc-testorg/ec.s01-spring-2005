@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This is a resource file that contains information regarding java lab
   2: using control structures.'
-file: /ol-ocw-studio-app/courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/43e77dfcca7b0ac785a0a94cd8e838ea_MITEC_S01S05_gradebookoo1.pdf
+file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/43e77dfcca7b0ac785a0a94cd8e838ea_MITEC_S01S05_gradebookoo1.pdf
 file_size: 228938
 file_type: application/pdf
 learning_resource_types:

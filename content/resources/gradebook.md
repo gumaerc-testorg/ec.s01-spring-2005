@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solution file for Lab 4.
-file: /ol-ocw-studio-app/courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/6e787c4ab048258ef035b8eeb2a0014c_GradeBook.java
+file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/6e787c4ab048258ef035b8eeb2a0014c_GradeBook.java
 file_size: 2920
 file_type: text/plain
 learning_resource_types:
