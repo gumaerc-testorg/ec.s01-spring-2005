@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding bytecodes.
-file: /ol-ocw-studio-app/courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/7aa811155d4e4d6c9bd9f656d39ff5d7_MITEC_S01S05_bytecode.pdf
+file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/7aa811155d4e4d6c9bd9f656d39ff5d7_MITEC_S01S05_bytecode.pdf
 file_size: 606040
 file_type: application/pdf
 learning_resource_types:
