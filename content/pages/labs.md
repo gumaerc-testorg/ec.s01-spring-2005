@@ -4,7 +4,7 @@ description: Labs section contains challenge problems and lab experiments from b
   spring and summer 2005.
 draft: false
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: 3d205c72-31f8-9db5-2b70-692eab543e86
