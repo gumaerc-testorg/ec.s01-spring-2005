@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: This resource is the solution file for lab 6.
-file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/3843a847e58ba4fbcb660fe52d225f0b_GBProgram.java
+file: /ol-ocw-studio-app/courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/3843a847e58ba4fbcb660fe52d225f0b_GBProgram.java
 file_size: 900
 file_type: text/plain
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
