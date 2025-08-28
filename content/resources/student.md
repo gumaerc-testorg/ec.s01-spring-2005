@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/student.java
+file: /ol-ocw-studio-app/courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/student.java
 file_size: 5135
 file_type: text/x-java
 image_metadata:
@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: Student.java

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding coding methodology.
-file: /courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/036c6346ab30c57ede790e330f171e43_MITEC_S01S05_coding_metho.pdf
+file: /ol-ocw-studio-app/courses/ec-s01-internet-technology-in-local-and-global-communities-spring-2005-summer-2005/036c6346ab30c57ede790e330f171e43_MITEC_S01S05_coding_metho.pdf
 file_size: 515871
 file_type: application/pdf
 learning_resource_types:
